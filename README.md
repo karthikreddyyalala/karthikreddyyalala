@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Karthik 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Karthik%20Reddy%20Yalala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Production%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=78&descSize=16&descFontColor=b0c4d8"/>
 
 <p align="center">
-  <b>AI Engineer · Production GenAI systems · RAG · Agentic AI · LLM Evaluation</b><br/>
-  <i>Rising senior @ Arizona State University · AWS Certified · 4.0 GPA</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production+RAG+%26+agentic+AI+systems;LangGraph+%C2%B7+Amazon+Bedrock+%C2%B7+MCP+%C2%B7+LLM+Evaluation;AI+Enablement+Intern+%40+Avis+Budget+Group+(Fortune+500);B.S.+CS+%40+ASU+%C2%B7+GPA+4.0+%C2%B7+AWS+Certified" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kyalala"><img src="https://img.shields.io/badge/LinkedIn-kyalala-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://karthikreddyy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-karthikreddyy.vercel.app-000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:karthikreddyy386@gmail.com"><img src="https://img.shields.io/badge/Email-karthikreddyy386@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20AI%20Engineer%20Roles-22c55e?style=flat&logo=checkmarx&logoColor=white"/>
 </p>
 
 ---
@@ -54,3 +54,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
