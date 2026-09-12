@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 Building **[Crucible AI](https://karthikreddyy.vercel.app)** — a multi-stage LangGraph interview agent with cross-session memory, golden-dataset adversarial evaluation, and Claude Haiku/Sonnet model tiering
+- 🔭 Building **Crucible AI** — a multi-stage LangGraph interview agent with cross-session memory, golden-dataset adversarial evaluation, and Claude Haiku/Sonnet model tiering
 - 📄 Building **FinRAG MCP** — a cited financial intelligence MCP server over 500+ SEC filings with hybrid BM25/dense retrieval, neural reranking, and ragas regression gates against a 300-question FinanceBench dataset
 - 🏢 Just finished: **AI Enablement Intern @ Avis Budget Group (Fortune 500)** — shipped 4 production GenAI initiatives, saved 170+ hours, contributed to $1M+ projected savings, and presented directly to the CEO
 - 🎓 B.S. Computer Science @ **Arizona State University** · GPA 4.0 · Dean's List every semester · Expected May 2027
@@ -54,12 +54,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikreddyyalala&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddyyalala&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165"/>
-</p>
