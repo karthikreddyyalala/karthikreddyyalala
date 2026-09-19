@@ -1,38 +1,49 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Karthik%20Reddy%20Yalala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Production%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=78&descSize=16&descFontColor=b0c4d8"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production+RAG+%26+agentic+AI+systems;LangGraph+%C2%B7+Amazon+Bedrock+%C2%B7+MCP+%C2%B7+LLM+Evaluation;AI+Enablement+Intern+%40+Avis+Budget+Group+(Fortune+500);B.S.+CS+%40+ASU+%C2%B7+GPA+4.0+%C2%B7+AWS+Certified" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+agentic+AI+systems;LangGraph+%C2%B7+Amazon+Bedrock+%C2%B7+MCP+%C2%B7+LLM+Evaluation;AI+Enablement+Intern+%40+Avis+Budget+Group+(Fortune+500);B.S.+CS+%40+ASU+%C2%B7+GPA+4.0+%C2%B7+AWS+Certified" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/kyalala"><img src="https://img.shields.io/badge/LinkedIn-kyalala-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://karthikreddyy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-karthikreddyy.vercel.app-000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:karthikreddyy386@gmail.com"><img src="https://img.shields.io/badge/Email-karthikreddyy386@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20AI%20Engineer%20Roles-22c55e?style=flat&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20AI%20%2F%20SWE%20Roles-22c55e?style=flat&logo=checkmarx&logoColor=white"/>
 </p>
 
 ---
 
-- 🔭 Building **Crucible AI** — a multi-stage LangGraph interview agent with cross-session memory, golden-dataset adversarial evaluation, and Claude Haiku/Sonnet model tiering
-- 📄 Building **FinRAG MCP** — a cited financial intelligence MCP server over 500+ SEC filings with hybrid BM25/dense retrieval, neural reranking, and ragas regression gates against a 300-question FinanceBench dataset
-- 🏢 Just finished: **AI Enablement Intern @ Avis Budget Group (Fortune 500)** — shipped 4 production GenAI initiatives, saved 170+ hours, contributed to $1M+ projected savings, and presented directly to the CEO
-- 🎓 B.S. Computer Science @ **Arizona State University** · GPA 4.0 · Dean's List every semester · Expected May 2027
+### 👋 About Me
+
+- 🔭 Building **Crucible AI** — a multi-stage LangGraph interview agent with cross-session memory, golden-dataset adversarial evaluation, structured outputs, and Claude Haiku/Sonnet model tiering
+- 📄 Building **FinRAG MCP** — a cited financial intelligence MCP server over 500+ SEC filings with hybrid BM25/dense retrieval, reranking, numerical grounding verification, and ragas regression gates
+- 🏢 Recently: **AI Enablement Intern @ Avis Budget Group (Fortune 500)** — shipped 4 production GenAI initiatives, saved 170+ engineering/product hours, contributed to solutions projected to deliver $1M+ in annual savings, and presented directly to senior leadership
+- 🎓 B.S. Computer Science @ **Arizona State University** · GPA 4.0 · Expected May 2027
 - ☁️ **AWS Certified Cloud Practitioner**
-- 💬 Ask me about RAG pipelines, agentic AI, LLM evaluation, and production AWS deployments
+- 💬 Ask me about **RAG pipelines, agentic AI, LLM evaluation, guardrails, and production AWS deployments**
 
 ---
 
 ### 🧠 AI / GenAI
 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-F7431B?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+### 🧪 Evaluation / Reliability
+
+![RAG Evaluation](https://img.shields.io/badge/RAG_Evaluation-111827?style=flat&logoColor=white)
+![Guardrails](https://img.shields.io/badge/Guardrails-0F766E?style=flat&logoColor=white)
+![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-7C3AED?style=flat&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-2563EB?style=flat&logoColor=white)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-9333EA?style=flat&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
 ### 💻 Languages
 
@@ -51,6 +62,7 @@
 ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 
