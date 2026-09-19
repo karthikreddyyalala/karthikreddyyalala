@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Karthik%20Reddy%20Yalala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Production%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=78&descSize=16&descFontColor=b0c4d8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1d4ed8,100:38bdf8&height=160&section=header&text=Karthik%20Reddy%20Yalala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Production%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=78&descSize=16&descFontColor=dbeafe"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+agentic+AI+systems;LangGraph+%C2%B7+Amazon+Bedrock+%C2%B7+MCP+%C2%B7+LLM+Evaluation;AI+Enablement+Intern+%40+Avis+Budget+Group+(Fortune+500);B.S.+CS+%40+ASU+%C2%B7+GPA+4.0+%C2%B7+AWS+Certified" alt="Typing SVG"/>
