@@ -17,7 +17,7 @@
 
 - 🔭 Building **Crucible AI** — a multi-stage LangGraph interview agent with cross-session memory, golden-dataset adversarial evaluation, structured outputs, and Claude Haiku/Sonnet model tiering
 - 📄 Building **FinRAG MCP** — a cited financial intelligence MCP server over 500+ SEC filings with hybrid BM25/dense retrieval, reranking, numerical grounding verification, and ragas regression gates
-- 🏢 Recently: **AI Enablement Intern @ Avis Budget Group (Fortune 500)** — shipped 4 production GenAI initiatives, saved 170+ engineering/product hours, contributed to solutions projected to deliver $1M+ in annual savings, and presented directly to senior leadership
+- 🏢 Recently: **AI Enablement Intern @ Avis Budget Group (Fortune 500)** — shipped 4 production GenAI initiatives, saved 170+ engineering/product hours, contributed to solutions projected to deliver $1,000,000+ in annual savings, and presented directly to senior leadership
 - 🎓 B.S. Computer Science @ **Arizona State University** · GPA 4.0 · Expected May 2027
 - ☁️ **AWS Certified Cloud Practitioner**
 - 💬 Ask me about **RAG pipelines, agentic AI, LLM evaluation, guardrails, and production AWS deployments**
