@@ -1,69 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1d4ed8,100:38bdf8&height=160&section=header&text=Karthik%20Reddy%20Yalala&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20%C2%B7%20Production%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=78&descSize=16&descFontColor=dbeafe"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+agentic+AI+systems;LangGraph+%C2%B7+Amazon+Bedrock+%C2%B7+MCP+%C2%B7+LLM+Evaluation;AI+Enablement+Intern+%40+Avis+Budget+Group+(Fortune+500);B.S.+CS+%40+ASU+%C2%B7+GPA+4.0+%C2%B7+AWS+Certified" alt="Typing SVG"/>
-</p>
+<!-- Every card is an animated SVG rendered by scripts/render.py. Phones get the -narrow versions.
+     Contribution numbers are real and refresh daily via .github/workflows/profile.yml -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/kyalala"><img src="https://img.shields.io/badge/LinkedIn-kyalala-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://karthikreddyy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-karthikreddyy.vercel.app-000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:karthikreddyy386@gmail.com"><img src="https://img.shields.io/badge/Email-karthikreddyy386@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20AI%20%2F%20SWE%20Roles-22c55e?style=flat&logo=checkmarx&logoColor=white"/>
-</p>
+<a href="https://karthikreddyy.vercel.app"><picture><source media="(max-width: 600px)" srcset="./cards/hero-narrow.svg" /><img src="./cards/hero.svg" width="100%" alt="Karthik Reddy Yalala. LLMOps and AI infra engineer. Computer Science at Arizona State, 4.0 GPA, 2027. AWS Certified Cloud Practitioner. Open to full time roles from May 2027. Open my portfolio." /></picture></a>
+<picture><source media="(max-width: 600px)" srcset="./cards/board-narrow.svg" /><img src="./cards/board.svg" width="100%" alt="On the board. Summer 2026, Avis Budget Group: 4 GenAI apps shipped, 170 hours saved. Since August 2026, ProfessorDM: leads architecture for a 7 person AI MVP team. Now: Crucible and FinRAG. May 2027: open to full time AI and software roles." /></picture>
+<picture><source media="(max-width: 600px)" srcset="./cards/throughput-narrow.svg" /><img src="./cards/throughput.svg" width="100%" alt="GitHub contributions in the last year as a heatmap, with the yearly total, best day and streaks. Refreshed daily." /></picture>
+<picture><source media="(max-width: 600px)" srcset="./cards/stack-narrow.svg" /><img src="./cards/stack.svg" width="100%" alt="Stack: React, TypeScript, Node.js, LangGraph, LangChain, CrewAI, MCP, FastAPI, Amazon Bedrock, Claude, OpenAI, Hugging Face, AWS Lambda, DynamoDB, Docker, Pinecone, Python, Java, C++, SQL" /></picture>
+<a href="https://github.com/karthikreddyyalala/Crucible"><picture><source media="(max-width: 600px)" srcset="./cards/repo-crucible-narrow.svg" /><img src="./cards/repo-crucible.svg" width="100%" alt="Crucible: AI mock interviewer that tracks your weak spots across sessions. A 6-agent LangGraph pipeline on Claude and Bedrock. TypeScript." /></picture></a>
+<a href="https://github.com/karthikreddyyalala/FinRAG"><picture><source media="(max-width: 600px)" srcset="./cards/repo-finrag-narrow.svg" /><img src="./cards/repo-finrag.svg" width="100%" alt="FinRAG: cited financial intelligence over SEC filings, exposed as MCP tools. Python." /></picture></a>
+<a href="https://www.linkedin.com/in/kyalala"><picture><source media="(max-width: 600px)" srcset="./cards/link-linkedin-narrow.svg" /><img src="./cards/link-linkedin.svg" width="50%" alt="LinkedIn" /></picture></a><a href="mailto:karthikreddyy386@gmail.com"><picture><source media="(max-width: 600px)" srcset="./cards/link-email-narrow.svg" /><img src="./cards/link-email.svg" width="50%" alt="Email" /></picture></a>
+<a href="https://karthikreddyy.vercel.app"><picture><source media="(max-width: 600px)" srcset="./cards/link-portfolio-narrow.svg" /><img src="./cards/link-portfolio.svg" width="100%" alt="Open my portfolio" /></picture></a>
 
----
-
-### 👋 About Me
-
--  Building **Crucible AI** — a multi-stage LangGraph interview agent with cross-session memory, golden-dataset adversarial evaluation, structured outputs, and Claude Haiku/Sonnet model tiering
-- Building **FinRAG MCP** — a cited financial intelligence MCP server over 500+ SEC filings with hybrid BM25/dense retrieval, reranking, numerical grounding verification, and ragas regression gates
--  Recently: **AI Enablement Intern @ Avis Budget Group (Fortune 500)** — shipped 4 production GenAI initiatives, saved 170+ engineering/product hours, contributed to solutions projected to deliver** $1,000,000+ **in annual savings, and presented directly to senior leadership
--  B.S. Computer Science @ **Arizona State University** · GPA 4.0 · Expected May 2027
--  **AWS Certified Cloud Practitioner**
--  Ask me about **RAG pipelines, agentic AI, LLM evaluation, guardrails, and production AWS deployments**
-
----
-
-### 🧠 AI / GenAI
-
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-F7431B?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-### 🧪 Evaluation / Reliability
-
-![RAG Evaluation](https://img.shields.io/badge/RAG_Evaluation-111827?style=flat&logoColor=white)
-![Guardrails](https://img.shields.io/badge/Guardrails-0F766E?style=flat&logoColor=white)
-![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-7C3AED?style=flat&logoColor=white)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-2563EB?style=flat&logoColor=white)
-![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-9333EA?style=flat&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud / Backend / DevOps
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
+</div>
