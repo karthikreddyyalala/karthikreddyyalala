@@ -10,6 +10,6 @@
 <a href="https://github.com/karthikreddyyalala/Crucible"><picture><source media="(max-width: 600px)" srcset="./cards/repo-crucible-narrow.svg" /><img src="./cards/repo-crucible.svg" width="100%" alt="Crucible: AI mock interviewer that tracks your weak spots across sessions. A 6-agent LangGraph pipeline on Claude and Bedrock. TypeScript." /></picture></a>
 <a href="https://github.com/karthikreddyyalala/FinRAG"><picture><source media="(max-width: 600px)" srcset="./cards/repo-finrag-narrow.svg" /><img src="./cards/repo-finrag.svg" width="100%" alt="FinRAG: cited financial intelligence over SEC filings, exposed as MCP tools. Python." /></picture></a>
 <a href="https://www.linkedin.com/in/kyalala"><picture><source media="(max-width: 600px)" srcset="./cards/link-linkedin-narrow.svg" /><img src="./cards/link-linkedin.svg" width="50%" alt="LinkedIn" /></picture></a><a href="mailto:karthikreddyy386@gmail.com"><picture><source media="(max-width: 600px)" srcset="./cards/link-email-narrow.svg" /><img src="./cards/link-email.svg" width="50%" alt="Email" /></picture></a>
-<a href="https://karthikreddyy.vercel.app"><picture><source media="(max-width: 600px)" srcset="./cards/link-portfolio-narrow.svg" /><img src="./cards/link-portfolio.svg" width="100%" alt="Open my portfolio" /></picture></a>
+<a href="https://karthikreddy.dev/"><picture><source media="(max-width: 600px)" srcset="./cards/link-portfolio-narrow.svg" /><img src="./cards/link-portfolio.svg" width="100%" alt="Open my portfolio" /></picture></a>
 
 </div>
